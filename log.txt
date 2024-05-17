@@ -1,0 +1,10 @@
+episode: 1,  Sum of staying times: 1227527, average highway speed: 14.889637171058409, Execution time: 1216.9753148000018
+episode: 2,  Sum of staying times: 143525, average highway speed: 14.780473709445088, Execution time: 1239.1179374999992
+episode: 3,  Sum of staying times: 147406, average highway speed: 15.084284107257034, Execution time: 1010.2059402000014
+episode: 4,  Sum of staying times: 147444, average highway speed: 14.930955461640668, Execution time: 1222.665425399995
+episode: 5,  Sum of staying times: 144244, average highway speed: 14.973373037275179, Execution time: 1438.6719955999943
+episode: 6,  Sum of staying times: 139437, average highway speed: 14.891834449712574, Execution time: 1731.5673609000005
+episode: 7,  Sum of staying times: 129549, average highway speed: 15.04339348342128, Execution time: 2411.096118499998
+episode: 8,  Sum of staying times: 137659, average highway speed: 14.815544783888578, Execution time: 2591.9242773000005
+episode: 9,  Sum of staying times: 129231, average highway speed: 15.049035635386051, Execution time: 2667.9353603000054
+episode: 10,  Sum of staying times: 150346, average highway speed: 14.800341257036068, Execution time: 2422.558725099996
